@@ -14,7 +14,7 @@
 
 https://huggingface.co/docs/transformers/model_doc/musicgen 
 
-## Prototype
+## Demo
 
 ![MusicGen_demo](https://github.com/MyeongGuJo/2023-HAI-Project/assets/102133534/a7ca5eb2-1898-488e-93b4-cffdc8a0954e)
 
