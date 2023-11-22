@@ -25,17 +25,17 @@ https://huggingface.co/docs/transformers/model_doc/musicgen
 ## Execute demo
 
 First, clone this repo.
-```
+```sh
 git clone https://github.com/MyeongGuJo/2023-HAI-Project.git {name}
 ```
 
 Second, place your terminal position in this repository.
-```
+```sh
 cd ../{name}
 ```
 
 Finally, run streamlit in terminal.
-```
+```sh
 streamlit run app.py
 ```
 
