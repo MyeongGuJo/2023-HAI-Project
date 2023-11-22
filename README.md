@@ -21,3 +21,22 @@ https://huggingface.co/docs/transformers/model_doc/musicgen
 - You can describe music that you want to make.
 - Then, MusicGen will make your music.
 - After generating first music, MusicGen generate additional music 10 times.
+
+## Execute demo
+
+First, clone this repo.
+```
+git clone https://github.com/MyeongGuJo/2023-HAI-Project.git {name}
+```
+
+Second, place your terminal position in this repository.
+```
+cd ../{name}
+```
+
+Finally, run streamlit in terminal.
+```
+streamlit run app.py
+```
+
+Then, you can use demo site like upper image.
